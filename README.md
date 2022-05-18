@@ -1,7 +1,7 @@
 ![](logo.png)
 <h1 style=bold>🔰 Netra Security V3.0 🔰</h1>
 
-## A Simple Crome Extension to Detect if the Website is Safe or Malicious.
+## A Simple Chrome Based Extension to Detect if the Website is Safe or Malicious.
 
 # Features ✨
 - Automatic Work
